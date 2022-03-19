@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-<!---🔭 I’m currently working on ...-->
-<!--- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about 
-- 🤔 I’m looking for help with ...
-- 🌱 I’m currently learning MERN Stack-->
-- 📫 E-mail me at: samidha315@gmail.com
+<!---🔭 I’m currently working on ...
+💬 Ask me about 
+- 🤔 I’m looking for help with ...-->
 - 😄 Pronouns: She/her
+- 🌱 Currently exploring a lot of things
+- 👯 I'm looking for opportunities to work on projects that will help me advance.
+- 📫 E-mail me at: samidha315@gmail.com
 - ⚡ Fun fact: Music is my sanity
 
